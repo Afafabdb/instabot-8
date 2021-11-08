@@ -4,8 +4,8 @@ const puppeteer = require('puppeteer');
 const ig = require('./insta');
 
 let options = {
-    username: '**username**', 
-    password: '**password**',
+    username: 'gaming_bucko', 
+    password: 'holyangels98',
  
     followWaitTime: 100
 };
